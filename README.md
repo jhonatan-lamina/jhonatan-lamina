@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @jhonatan-lamina
+- 👋 Hi, I'm Jhonatan Lamiña
 - 👀 I am interested in the development of new applications.
 - 🌱 I am currently learning the use of 3D environments
 - 📫 To contact me you can write to me at the email: contacto@jhonatanlamina.com
